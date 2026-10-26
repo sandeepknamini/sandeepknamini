@@ -50,11 +50,20 @@ Each case explains the problem, architecture, contribution, implementation decis
 
 | Organization | Role | Period |
 |---|---|---|
-| **Comcast** | Senior Java Developer / DevOps Lead Engineer | January 2018–present |
+| **Comcast** | Senior Full-Stack Software Engineer | January 2018–present |
 | **AT&T** | Senior Java Developer / Production Support | May 2014–December 2017 |
 | **ITC Limited** | Software Engineer Intern | June 2010–March 2011 |
 
 The AT&T portfolio includes **Invenio/Data360, ATAC, ATAAS, API360, TAAS and the TDSS proof of concept**. The complete [experience matrix](https://nsandeep.dev/experience-matrix.html) also connects earlier academic work and internship experience to the engineering disciplines.
+
+## Graduate study & academic projects · 2011–2013
+
+After the ITC internship ended in March 2011, my career path included master's-level study and university projects before I joined AT&T in May 2014:
+
+- **University of Bedfordshire — M.S. in Computer Networking:** [wireless sensor security research](https://nsandeep.dev/projects/wireless-sensor-security.html), **May 2011–August 2012**.
+- **University of St. Thomas — Master of Software Systems:** [healthcare medical informatics](https://nsandeep.dev/projects/healthcare-informatics.html), **May–December 2013**.
+
+These are the documented academic project periods, not employment or degree-award dates.
 
 ## Read the engineering guides
 
