@@ -1,12 +1,12 @@
 <h1 align="center">Sandeep Namini</h1>
 
-<p align="center"><strong>Senior Full-Stack Software Engineer</strong></p>
+<p align="center"><strong>Senior Full-Stack Software Engineer &amp; Technical Lead</strong></p>
 <p align="center">Application engineering · Data platforms · Cloud delivery · Agent systems</p>
 
 <p align="center">
   <a href="https://nsandeep.dev/"><img alt="Explore the engineering portfolio" src="https://img.shields.io/badge/Explore-Portfolio-0A6CFF?style=flat-square&amp;labelColor=202938" /></a>
   <a href="https://nsandeep.dev/#projects"><img alt="32 case studies in the portfolio" src="https://img.shields.io/badge/Case_studies-32-0A6CFF?style=flat-square&amp;labelColor=202938" /></a>
-  <a href="https://nsandeep.dev/#expertise"><img alt="8 engineering guides" src="https://img.shields.io/badge/Engineering_guides-8-0A6CFF?style=flat-square&amp;labelColor=202938" /></a>
+  <a href="https://nsandeep.dev/#expertise"><img alt="10 engineering guides" src="https://img.shields.io/badge/Engineering_guides-10-0A6CFF?style=flat-square&amp;labelColor=202938" /></a>
 </p>
 
 <p align="center">
@@ -19,6 +19,10 @@ I build applications and the systems that keep them useful: Java and Python serv
 
 At Comcast, that includes communication and data platforms, DevOps, reliability, identity/security integration and participation across a team-built agentic AI platform. Earlier work at AT&T centered on Java/Spring applications, API testing and developer platforms; my ITC internship began in supply-chain systems support.
 
+I also lead across application and infrastructure boundaries: translating complex requirements into delivery plans with engineering, security, infrastructure, data and product teams. Architecture, DevSecOps, observability and recovery readiness inform my decisions alongside performance, resilience, operating cost and production support. Clear communication and knowledge sharing help teams take ownership of what they deliver.
+
+I’m interested in Staff and Principal opportunities that combine architectural guidance, platform initiatives and hands-on engineering, while remaining open to full-time and contract roles aligned with this experience.
+
 ## Where I work across the stack
 
 | Area | Engineering focus |
@@ -29,6 +33,8 @@ At Comcast, that includes communication and data platforms, DevOps, reliability,
 | **AI engineering** | ADK/A2A/MCP integration, conversational state, specialist workflows, bounded tools, evaluation and release evidence. |
 
 [![Selected technologies: Java, Python, Spring, React, AWS, Docker, Kubernetes and PostgreSQL](https://skillicons.dev/icons?i=java,py,spring,react,aws,docker,kubernetes,postgres&theme=dark&perline=8)](https://nsandeep.dev/experience-matrix.html)
+
+The linked engineering guides now include stage-by-stage technical walkthroughs, technology configuration and diagnostics, contract examples and recovery decisions. Each companion repository includes `docs/TECHNICAL_WALKTHROUGH.md`.
 
 ## Selected engineering stories
 
@@ -69,7 +75,9 @@ These are the documented academic project periods, not employment or degree-awar
 
 [Application engineering](https://nsandeep.dev/capabilities/software-development.html) · [Data engineering](https://nsandeep.dev/capabilities/data-engineering.html) · [System design](https://nsandeep.dev/capabilities/system-design.html) · [Event-driven systems](https://nsandeep.dev/capabilities/event-driven-systems.html)
 
-[DevOps & platform](https://nsandeep.dev/capabilities/devops-platform.html) · [Testing & quality](https://nsandeep.dev/capabilities/testing.html) · [Observability](https://nsandeep.dev/capabilities/observability.html) · [AI engineering](https://nsandeep.dev/capabilities/ai-engineering.html)
+[DevOps & platform](https://nsandeep.dev/capabilities/devops-platform.html) · [Testing & quality](https://nsandeep.dev/capabilities/testing.html) · [SRE & observability](https://nsandeep.dev/capabilities/observability.html) · [AI engineering](https://nsandeep.dev/capabilities/ai-engineering.html)
+
+[Databricks & lakehouse](https://nsandeep.dev/capabilities/databricks-lakehouse.html) · [Security & identity](https://nsandeep.dev/capabilities/security-identity.html)
 
 ## Education & earlier credentials
 
