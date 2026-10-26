@@ -59,7 +59,7 @@ Each case explains the problem, architecture, contribution, implementation decis
 |---|---|---|
 | **Comcast** | Senior Full-Stack Software Engineer | January 2023–present |
 | **Comcast** | Software Engineer (DevOps) | January 2018–January 2023 |
-| **AT&T** | Senior Java Developer / Production Support | May 2014–December 2017 |
+| **AT&T** | Software Engineer (Full Stack) · Contract | May 2014–December 2017 |
 | **University of St. Thomas** | Research Study Assistant · full-time | February 2013–April 2014 |
 | **University of Bedfordshire** | Network Engineer · full-time | April 2011–April 2012 |
 | **ITC Limited** | SAP Consultant · part-time | April 2009–April 2010 |
