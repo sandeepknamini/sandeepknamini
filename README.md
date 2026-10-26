@@ -12,12 +12,13 @@
 <p align="center">
   <a href="https://nsandeep.dev/resume/">Full-time &amp; contract resumes</a> ·
   <a href="https://nsandeep.dev/experience-matrix.html">Experience matrix</a> ·
+  <a href="https://www.linkedin.com/in/sandeep-namini/">LinkedIn</a> ·
   <a href="mailto:sandeepknamini@gmail.com">Get in touch</a>
 </p>
 
 I build applications and the systems that keep them useful: Java and Python services, browser experiences, data pipelines, cloud delivery, and operational tooling. My work spans requirements and architecture through implementation, testing, release, production support and continuous improvement.
 
-At Comcast, that includes communication and data platforms, DevOps, reliability, identity/security integration and participation across a team-built agentic AI platform. Earlier work at AT&T centered on Java/Spring applications, API testing and developer platforms; my ITC internship began in supply-chain systems support.
+At Comcast, that includes communication and data platforms, DevOps, reliability, identity/security integration and participation across a team-built agentic AI platform. Earlier work at AT&T centered on Java/Spring applications, API testing and developer platforms; my earlier part-time SAP consulting at ITC focused on supply-chain systems support.
 
 I also lead across application and infrastructure boundaries: translating complex requirements into delivery plans with engineering, security, infrastructure, data and product teams. Architecture, DevSecOps, observability and recovery readiness inform my decisions alongside performance, resilience, operating cost and production support. Clear communication and knowledge sharing help teams take ownership of what they deliver.
 
@@ -56,20 +57,23 @@ Each case explains the problem, architecture, contribution, implementation decis
 
 | Organization | Role | Period |
 |---|---|---|
-| **Comcast** | Senior Full-Stack Software Engineer | January 2018–present |
+| **Comcast** | Senior Full-Stack Software Engineer | January 2023–present |
+| **Comcast** | Software Engineer (DevOps) | January 2018–January 2023 |
 | **AT&T** | Senior Java Developer / Production Support | May 2014–December 2017 |
-| **ITC Limited** | Software Engineer Intern | June 2010–March 2011 |
+| **University of St. Thomas** | Research Study Assistant · full-time | February 2013–April 2014 |
+| **University of Bedfordshire** | Network Engineer · full-time | April 2011–April 2012 |
+| **ITC Limited** | SAP Consultant · part-time | April 2009–April 2010 |
 
-The AT&T portfolio includes **Invenio/Data360, ATAC, ATAAS, API360, TAAS and the TDSS proof of concept**. The complete [experience matrix](https://nsandeep.dev/experience-matrix.html) also connects earlier academic work and internship experience to the engineering disciplines.
+The AT&T portfolio includes **Invenio/Data360, ATAC, ATAAS, API360, TAAS and the TDSS proof of concept**. The complete [experience matrix](https://nsandeep.dev/experience-matrix.html) connects these roles, university work and earlier academic projects to the engineering disciplines.
 
-## Graduate study & academic projects · 2011–2013
+## University roles and graduate study
 
-After the ITC internship ended in March 2011, my career path included master's-level study and university projects before I joined AT&T in May 2014:
+My university chapter combines employment, graduate study and technical research, with their dates stated separately:
 
-- **University of Bedfordshire — M.S. in Computer Networking:** [wireless sensor security research](https://nsandeep.dev/projects/wireless-sensor-security.html), **May 2011–August 2012**.
-- **University of St. Thomas — Master of Software Systems:** [healthcare medical informatics](https://nsandeep.dev/projects/healthcare-informatics.html), **May–December 2013**.
+- **University of Bedfordshire, Luton:** Network Engineer, April 2011–April 2012; master’s degree in Computer Communications and Networking, 2010–2011. The related [wireless-sensor security research](https://nsandeep.dev/projects/wireless-sensor-security.html) has a documented project period of May 2011–August 2012.
+- **University of St. Thomas, Saint Paul:** Research Study Assistant, February 2013–April 2014; master’s degree in Computer Science, 2013–2014. The [healthcare medical informatics project](https://nsandeep.dev/projects/healthcare-informatics.html) ran May–December 2013.
 
-These are the documented academic project periods, not employment or degree-award dates.
+Employment, study and project dates describe distinct activities; the longer research period does not extend a role’s employment dates.
 
 ## Read the engineering guides
 
@@ -79,12 +83,13 @@ These are the documented academic project periods, not employment or degree-awar
 
 [Databricks & lakehouse](https://nsandeep.dev/capabilities/databricks-lakehouse.html) · [Security & identity](https://nsandeep.dev/capabilities/security-identity.html)
 
-## Education & earlier credentials
+## Education & credential history
 
-- **Master of Software Systems** — University of St. Thomas.
-- **M.S. in Computer Networking** — University of Bedfordshire.
-- **B.Tech in Computer Science Engineering** — JNTU-affiliated institution.
-- **Earned in 2012:** Cisco CCNA, ITIL Foundation and Microsoft MCITP. These are historical credentials; current certification status is not asserted.
+- **Master’s degree in Computer Science** — University of St. Thomas, 2013–2014.
+- **Master’s degree in Computer Communications and Networking** — University of Bedfordshire, 2010–2011.
+- **Bachelor of Technology (BTech), Computer Science** — JNTUH College of Engineering Hyderabad, 2006–2010.
+- **AWS Certified Solutions Architect – Professional** — Amazon Web Services; earned October 2020, **expired October 2023**. [Credential record](https://www.credly.com/badges/768fed7a-7b83-45ec-9cdc-ed9c12c93b7b).
+- **Cisco CCNA** — issued April 2011; **ITIL V3 IT Information Library Foundations Certification (EXIN)** — issued April 2011; **Microsoft MCITP** — issued April 2012. These are historical records; current validity is not asserted.
 
 ## About the companion code
 
