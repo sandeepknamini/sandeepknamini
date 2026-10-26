@@ -13,7 +13,8 @@
   <a href="https://nsandeep.dev/resume/">Full-time &amp; contract resumes</a> ·
   <a href="https://nsandeep.dev/experience-matrix.html">Experience matrix</a> ·
   <a href="https://www.linkedin.com/in/sandeep-namini/">LinkedIn</a> ·
-  <a href="mailto:sandeepknamini@gmail.com">Get in touch</a>
+  <a href="mailto:sandeepknamini@gmail.com">Get in touch</a> ·
+  <a href="https://nsandeep.dev/phone-request/">Request phone number</a>
 </p>
 
 I build applications and the systems that keep them useful: Java and Python services, browser experiences, data pipelines, cloud delivery, and operational tooling. My work spans requirements and architecture through implementation, testing, release, production support and continuous improvement.
@@ -95,7 +96,7 @@ Employment, study and project dates describe distinct activities; the longer res
 
 The case studies describe generalized professional experience. Companion showcases contain independently written educational code, fictional fixtures and meaningful local tests. They contain no employer source code, documents, private endpoints or business data. Team contributions and individual ownership are identified within each case.
 
-Companion repositories remain private; the public case studies are available without repository access. **[Email me](mailto:sandeepknamini@gmail.com)** to discuss the work or request a code walkthrough.
+Companion repositories remain private; the public case studies are available without repository access. **[Email me](mailto:sandeepknamini@gmail.com)** to discuss the work or request a code walkthrough. For a call, **[request my phone number](https://nsandeep.dev/phone-request/)**; I review requests before sharing it.
 
 <!-- Current portfolio counts are generated from content/projects.json and content/capabilities.json; they are not GitHub activity statistics. -->
 <!-- Presentation references: https://www.profileme.dev/ | https://readme.so/ | https://octoprofile.vercel.app/ . Icons: https://skillicons.dev/ . Badges: https://shields.io/ . -->
